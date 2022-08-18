@@ -1,4 +1,4 @@
-# Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion
+# KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion
 
 Original implementation for KRACL framework proposed by paper **KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**.
 
